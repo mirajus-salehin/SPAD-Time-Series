@@ -1,0 +1,1 @@
+python spad_regression.py train your_data.csv --model spad_model.pkl --test-size 0.3
